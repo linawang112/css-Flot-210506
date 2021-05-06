@@ -1,0 +1,15 @@
+img {
+  height: 300px;
+  width: 380px;
+  float: right;
+  margin: 0 20px 20px 0;
+}
+p {
+  border: 1px solid red;
+}
+#art {
+  clear: both;
+}
+h1 {
+  font-family: "Open Sans", sans-serif;
+}
